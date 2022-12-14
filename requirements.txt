@@ -1,0 +1,6 @@
+
+configirl==0.0.7
+fabric2==2.5.0
+pathlib_mate
+patchwork
+
